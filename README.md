@@ -41,7 +41,8 @@ _________
 #### note : 
 <br>
 authentication template has been uploaded for you in this repository , with users schema, sign in's, and profile. 
-You may fork and clone this repository.<br> **read and understand the code in order to use it.**
+You may fork and clone this repository. 
+**read and understand the code in order to use it.**
 
 
 
